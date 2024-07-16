@@ -6,9 +6,11 @@ Imagine a desktop application that efficiently and effortlessly streamlines your
 There are some pictures that show what the Application looks like:
 </h2>
 1-Loading Page:<br>
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482">
-    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" style="margin: 900px;">
+    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" >
   </a>
 </div>
 <br>
