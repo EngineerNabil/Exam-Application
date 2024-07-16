@@ -65,6 +65,6 @@ Built by:
 <br />
 <div align="center">
   <a href="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482">
-    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Logo" width="80" height="80">
+    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Logo">
   </a>
 </div>
