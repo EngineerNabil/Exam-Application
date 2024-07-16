@@ -6,7 +6,6 @@ Imagine a desktop application that efficiently and effortlessly streamlines your
 There are some pictures that show what the Application looks like:
 </h2>
 1-Loading Page:<br>
-![cv start](https://github.com/user-attachments/assets/3667c412-d7cc-4385-97ab-e423cd86eb6c)
 ![Photo1](Mockup/Photo1.png)
 https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482<br>
 2-Login Page:<br>               https://github.com/user-attachments/assets/97fd9978-614b-4574-957f-3f6bb1d6ecd9<br>
