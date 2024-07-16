@@ -8,66 +8,67 @@ There are some pictures that show what the Application looks like:
 1-Loading Page:<br><br>
 <div align="center">
   <a href="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482">
-    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" >
+    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" width="600" >
   </a>
 </div>
 <br>
 2-Login Page:<br><br>
 <div align="center">
   <a href="https://github.com/user-attachments/assets/97fd9978-614b-4574-957f-3f6bb1d6ecd9">
-    <img src="https://github.com/user-attachments/assets/97fd9978-614b-4574-957f-3f6bb1d6ecd9" alt="Login">
+    <img src="https://github.com/user-attachments/assets/97fd9978-614b-4574-957f-3f6bb1d6ecd9" alt="Login" width="600">
   </a>
 </div>
 <br>
 3-Track Page:<br><br>
 <div align="center">
   <a href="https://github.com/user-attachments/assets/06c52f55-1c80-42f3-bb9e-58a7468cd52e">
-    <img src="https://github.com/user-attachments/assets/06c52f55-1c80-42f3-bb9e-58a7468cd52e" alt="Track Page">
+    <img src="https://github.com/user-attachments/assets/06c52f55-1c80-42f3-bb9e-58a7468cd52e" alt="Track Page" width="600">
   </a>
 </div>
 <br>
 4-Weeks Page:<br><br>           
 <div align="center">
   <a href="https://github.com/user-attachments/assets/b1b71301-ec15-4401-9de3-1933f410dd11)">
-    <img src="https://github.com/user-attachments/assets/b1b71301-ec15-4401-9de3-1933f410dd11" alt="Weeks Page">
+    <img src="https://github.com/user-attachments/assets/b1b71301-ec15-4401-9de3-1933f410dd11" alt="Weeks Page" width="600">
   </a>
 </div>
 <br>
 5-Start Exam Page:<br><br>          
 <div align="center">
   <a href="https://github.com/user-attachments/assets/e5df670e-0ea1-4288-b3c7-8589f6748eb0">
-    <img src="https://github.com/user-attachments/assets/e5df670e-0ea1-4288-b3c7-8589f6748eb0" alt="Start Exam Page">
+    <img src="https://github.com/user-attachments/assets/e5df670e-0ea1-4288-b3c7-8589f6748eb0" alt="Start Exam Page" width="600">
   </a>
 </div>
 <br>
 6-Choose Question:<br><br>      
 <div align="center">
   <a href="https://github.com/user-attachments/assets/f8e5699c-e68a-4cae-9290-f3cb9f3d0e9d">
-    <img src="https://github.com/user-attachments/assets/f8e5699c-e68a-4cae-9290-f3cb9f3d0e9d" alt="Choose Question">
+    <img src="https://github.com/user-attachments/assets/f8e5699c-e68a-4cae-9290-f3cb9f3d0e9d" alt="Choose Question" width="600">
   </a>
 </div>
 <br>
 7-Coding Question:<br><br>
 <div align="center">
   <a href="https://github.com/user-attachments/assets/cc845cb0-78b1-449f-8943-87525c95ba66">
-    <img src="https://github.com/user-attachments/assets/cc845cb0-78b1-449f-8943-87525c95ba66" alt="Coding Question">
+    <img src="https://github.com/user-attachments/assets/cc845cb0-78b1-449f-8943-87525c95ba66" alt="Coding Question" width="600">
   </a>
 </div>
 <br>
 8-Submit Page:<br><br>          
 <div align="center">
   <a href="https://github.com/user-attachments/assets/c683e35b-5f1b-4231-bab8-0e500e1b16d5">
-    <img src="https://github.com/user-attachments/assets/c683e35b-5f1b-4231-bab8-0e500e1b16d5" alt="Coding Question">
+    <img src="https://github.com/user-attachments/assets/c683e35b-5f1b-4231-bab8-0e500e1b16d5" alt="Coding Question" width="600">
   </a>
 </div>
 <br>
 9-Done-Exam Page:<br><br>
 <div align="center">
   <a href="https://github.com/user-attachments/assets/e5831dab-1f9f-47c6-b347-d5a66ae586f7">
-    <img src="https://github.com/user-attachments/assets/e5831dab-1f9f-47c6-b347-d5a66ae586f7" alt="Done Exam">
+    <img src="https://github.com/user-attachments/assets/e5831dab-1f9f-47c6-b347-d5a66ae586f7" alt="Done Exam" width="600">
   </a>
 </div>
 <br>
+
 <h2>
 Built by:
 </h2>
