@@ -8,14 +8,14 @@ There are some pictures that show what the Application looks like:
 1-Loading Page:<br>
 <div align="center">
   <a href="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482">
-    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" style="border-radius: 20;">
+    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" >
   </a>
 </div>
 <br>
 2-Login Page:<br>               
 <div align="center">
   <a href="https://github.com/user-attachments/assets/97fd9978-614b-4574-957f-3f6bb1d6ecd9">
-    <img src="https://github.com/user-attachments/assets/97fd9978-614b-4574-957f-3f6bb1d6ecd9" alt="Login" loading="lazy">
+    <img src="https://github.com/user-attachments/assets/97fd9978-614b-4574-957f-3f6bb1d6ecd9" alt="Login">
   </a>
 </div>
 <br>
