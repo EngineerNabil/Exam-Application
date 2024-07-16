@@ -6,28 +6,11 @@ Imagine a desktop application that efficiently and effortlessly streamlines your
 There are some pictures that show what the Application looks like:
 </h2>
 1-Loading Page:<br>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rounded Image Example</title>
-    <style>
-        .rounded-image {
-            width: 200px; /* Set the width of the image */
-            height: auto; /* Maintain aspect ratio */
-            border-radius: 15px; /* Adjust the value for roundness */
-            object-fit: cover; /* Ensures the image covers the entire area */
-        }
-    </style>
-</head>
-<body>
-    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" class="rounded-image">
-</body>
-</html>
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482">
-    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" loading="lazy" title="Tooltip text">
+    <img src="https://github.com/user-attachments/assets/10a4ec10-782c-4f53-b28b-63cc09345482" alt="Loading" style="border-radius: 20;">
   </a>
-</div> -->
+</div>
 <br>
 2-Login Page:<br>               
 <div align="center">
