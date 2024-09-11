@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nabil</h1>
 <h3 align="center">A Desktop application developer using Java</h3>
-- 📫 How to reach me **mohamednabil5011@gmail.com**<br>
+- 📫 How to reach me *mohamednabil5011@gmail.com*<br>
 - 📄 Know about my experiences <a href="https://mega.nz/file/mcomkYAY#4X2uqMFRWiUW_H5xsz_6w-MCOWXw90mcTfT1FtE-ueA" target="Mohamed Nabil CV"/>CV</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
